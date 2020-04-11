@@ -1,0 +1,32 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <meta http-equiv="X-UA-Compatible" content="ie=edge">
+    <title>Ticket Booking</title>
+    <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/4.0.0/css/bootstrap.min.css"
+    integrity="sha384-Gn5384xqQ1aoWXA+058RXPxPg6fy4IWvTNh0E263XmFcJlSAwiGgFAW/dAiS6JXm" crossorigin="anonymous">
+</head>
+<body background="https://cdn.hipwallpaper.com/i/31/83/Hzc4Ur.jpg">
+  
+     <h1 class=" text-center text-danger">YOUR BOOKED TICKET </h1>
+     <button onclick="home()" class="col-1 float-right mr-5 btn btn-sm bg-success" >HOME</button>
+     <div class=" col-lg-4 col-sm-8 mt-5 offset-lg-4 border border-dark bg-info">
+            <h2 class="text-light" id="moviename">Movie Name:</h2>
+            <h2 class="text-warning "id="moviegenres">Movie Genrese:</h2>
+            <h2  class="text-danger" id="movielanguage">Movie Language:</h2>
+            <h2 class="text-warning" id="movieseat">Movie seat no:</h2>
+
+  <button  onclick="confirmbutton()" class="btn btn-lg bg-success ml-5 mb-2 mt-2 mr-5">CONFIRM</button>
+  <button onclick="cancelbutton()" class="btn btn-lg bg-danger">CANCEL</button>
+     </div>
+
+
+
+
+
+     <script src="https://ajax.googleapis.com/ajax/libs/jquery/3.4.1/jquery.min.js"></script>
+     <script src="bookdetails.js"></script>
+</body>
+</html>
