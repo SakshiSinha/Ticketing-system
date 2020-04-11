@@ -2,10 +2,10 @@
 
 
 #Demo Video link
-[![Watch the video](.)]https://drive.google.com/open?id=1ygvWzDmI1wkDesGoup9gagGjHc88xFUQ)
+https://drive.google.com/open?id=1ygvWzDmI1wkDesGoup9gagGjHc88xFUQ)
 
 #Live Demo link
-[![Watch the video](,)]https://sakshisinha.github.io/Ticketing-system/)
+https://sakshisinha.github.io/Ticketing-system/)
 
 #LANDING PAGE
 ![Landing page](./images/LandingPage.png)
